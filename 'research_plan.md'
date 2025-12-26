@@ -1,0 +1,9 @@
+Research Workflow
+
+Download human SECIS → SelenoDB
+
+Predict interactions → IntaRNA/RNAhybrid
+
+Disease annotation → DisGeNET
+
+Webserver → Flask + React
